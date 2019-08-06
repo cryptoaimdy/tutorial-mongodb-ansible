@@ -1,7 +1,7 @@
 [all:vars]
 
 [mongo-test]
-13.233.89.202 ubuntu= ansible_python_interpreter="/usr/bin/env python3"
+13.126.46.236 ubuntu= ansible_python_interpreter="/usr/bin/env python3"
 
 
 
