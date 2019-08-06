@@ -1,7 +1,7 @@
 [all:vars]
 
 [mongo-test]
-13.69.191.159 ubuntu=lesha  ansible_python_interpreter="/usr/bin/env python3"
+13.233.89.202 ubuntu=lesha  ansible_python_interpreter="/usr/bin/env python3"
 
 
 
